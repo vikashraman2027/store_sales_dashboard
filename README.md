@@ -94,10 +94,9 @@ The dataset contains:
 - Sales & Profit Metrics
 
 ---
-# Dashboard Preview
+## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard_screenshot.png)
----
+![Dashboard Preview](./screenshots/dashboard_screenshot.png)---
 
 # Files Included
 - Power BI Dashboard (.pbix)
