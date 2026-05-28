@@ -94,7 +94,6 @@ The dataset contains:
 - Sales & Profit Metrics
 
 ---
-# Dashboard Preview
 
 ![Dashboard Preview](screenshots/dashboard_screenshot.png)
 ---
