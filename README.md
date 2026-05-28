@@ -95,6 +95,8 @@ The dataset contains:
 
 ---
 
+# Dashboard Preview
+
 ![Dashboard Preview](screenshots/dashboard_screenshot.png)
 ---
 
